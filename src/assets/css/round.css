@@ -1,0 +1,15 @@
+.home-container {
+    height: 100%;
+  }
+  .el-header {
+    background-color: rgb(255, 159, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .el-aside {
+    background-color: rgb(255, 183, 64);
+  }
+  .el-main {
+    background-color: rgb(255, 202, 115);
+  }
